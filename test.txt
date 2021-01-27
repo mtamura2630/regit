@@ -1,2 +1,3 @@
 testtext
 add row from dev2
+re-add row from dev2
